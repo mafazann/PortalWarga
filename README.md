@@ -1,5 +1,4 @@
-# PortalWarga - Sistem Manajemen Administrasi RT Premium
-
+# PortalWarga - Sistem Manajemen Administrasi RT 
 Sistem ini adalah aplikasi *full-stack* berbasis web untuk mempermudah tugas pengurus Rukun Tetangga (RT) di perumahan elite. Aplikasi ini dirancang untuk mendata warga, mengelola status hunian 20 unit rumah, mencatat pembayaran iuran rutin (Satpam & Kebersihan), serta membukukan laporan pengeluaran kas RT secara transparan dan mudah dipahami.
 
 ---
