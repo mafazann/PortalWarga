@@ -74,3 +74,4 @@ erDiagram
     houses ||--o{ payments : "has_payments"
     residents ||--o{ payments : "makes_payments"
 ```
+![Nama Gambar](./src/ERD.png)
