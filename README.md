@@ -136,8 +136,9 @@ Anda dapat melihat desain struktur database secara utuh pada file **[`ERD.md`](.
 ---
 
 ##  Proyek & Panduan
-* **Repo Aplikasi (GitHub):** 
-* **Panduan Instalasi:** 
+* **Repo Aplikasi (GitHub):**
+ https://github.com/mafazann/PortalWarga
+* **Panduan Instalasi:** https://github.com/mafazann/PortalWarga/blob/main/README.md
 
 ---
 
